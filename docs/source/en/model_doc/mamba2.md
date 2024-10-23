@@ -104,3 +104,8 @@ trainer.train()
 
 [[autodoc]] Mamba2ForCausalLM
     - forward
+
+## MambaForSequenceClassification
+
+[[autodoc]] Mamba2ForSequenceClassification
+    - forward
