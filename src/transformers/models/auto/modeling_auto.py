@@ -907,6 +907,7 @@ MODEL_FOR_SEQUENCE_CLASSIFICATION_MAPPING_NAMES = OrderedDict(
         ("longformer", "LongformerForSequenceClassification"),
         ("luke", "LukeForSequenceClassification"),
         ("mamba", "MambaForSequenceClassification"),
+        ("mamba2", "Mamba2ForSequenceClassification"),
         ("markuplm", "MarkupLMForSequenceClassification"),
         ("mbart", "MBartForSequenceClassification"),
         ("mega", "MegaForSequenceClassification"),
